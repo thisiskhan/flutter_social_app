@@ -2,9 +2,15 @@
 
 A new Flutter project.
 Application Preview is below 
+<p align = "left">
 <img width="487" alt="Screenshot1" src="https://user-images.githubusercontent.com/72858063/98944133-925cde00-2516-11eb-9b5d-56ca8e60e99f.png">
+  </p>  
+ <p alogn = "center">                                                                                                                                            
 <img width="487" alt="Screenshot2" src="https://user-images.githubusercontent.com/72858063/98944058-78230000-2516-11eb-8b9b-a42a6ee1e709.png">
+</p>
+</p align ="right">
 <img width="487" alt="Screenshot3" src="https://user-images.githubusercontent.com/72858063/98944062-79ecc380-2516-11eb-938a-87d9be0c3d4f.png">
+</p>
 <img width="487" alt="Screenshot4" src="https://user-images.githubusercontent.com/72858063/98944065-7b1df080-2516-11eb-8408-5cc756607fcc.png">
 <img width="487" alt="Screenshot5" src="https://user-images.githubusercontent.com/72858063/98944068-7ce7b400-2516-11eb-9722-42328f8d399e.png">
 <img width="487" alt="Screenshot6" src="https://user-images.githubusercontent.com/72858063/98944073-7e18e100-2516-11eb-9d62-a598f7d1e433.png">
