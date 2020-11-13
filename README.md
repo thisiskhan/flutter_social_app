@@ -1,7 +1,6 @@
 # flutter_social_app
 
-A new Flutter project.
-Application Preview is below 
+Application Preview 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
 <p align = "center">
 <img width="487" alt="Screenshot1" src="https://user-images.githubusercontent.com/72858063/98944133-925cde00-2516-11eb-9b5d-56ca8e60e99f.png">
 <img width="487" alt="Screenshot2" src="https://user-images.githubusercontent.com/72858063/98944058-78230000-2516-11eb-8b9b-a42a6ee1e709.png">
